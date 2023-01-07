@@ -1,5 +1,5 @@
 <div  align="center">
-<img src="https://i.gifer.com/Bm1J.gif" width="300"/>
+<img src="https://i.gifer.com/Bm1J.gif" width="300" height="150" alt="LinkedIn Badge"/>
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 <div id="badges" align="center">
   <a href="linkedin.com/in/vladimir-labunets-78a3b3125">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 </div>
