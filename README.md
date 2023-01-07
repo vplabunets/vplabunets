@@ -1,4 +1,7 @@
+<div id="header" align="center">
+
   <img src=https://i.gifer.com/Bm1J.gif width="300"/>
+</div>
 
 <div id="badges" align="center">
   <a href="linkedin.com/in/vladimir-labunets-78a3b3125">
@@ -43,14 +46,16 @@ I'm Volodymyr Junior Frontend developer from :blue_heart:UKRAINE:yellow_heart:! 
 #### :fire: Streak stats :
 
 <div id="badges" align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=github-light)](https://git.io/streak-stats))
-</div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=github-light)](https://git.io/streak-stats))
+
+</div>
 #### :fire: Summary :
 
 ---
 
 <div id="badges" align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vplabunets&theme=github)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vplabunets&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vplabunets&theme=github)
