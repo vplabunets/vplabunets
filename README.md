@@ -49,7 +49,7 @@ I'm Volodymyr Junior Frontend developer from :blue_heart:UKRAINE:yellow_heart:! 
 
 <div id="badges" align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=github-light)](https://git.io/streak-stats))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=github-light)](https://git.io/streak-stats)
 
 </div>
 
