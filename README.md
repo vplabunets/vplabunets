@@ -19,7 +19,7 @@
 
 #### :woman_technologist: About Me :
 
-I'm Volodymyr Junior Frontend developer from :blue_heart:UKRAINE:yellow_heart:!  React, React Native, Node.JS
+I'm Volodymyr Junior Frontend developer from :blue_heart:UKRAINE:yellow_heart:!  React, MUI, React Native, Node.JS
 
 ---
 
